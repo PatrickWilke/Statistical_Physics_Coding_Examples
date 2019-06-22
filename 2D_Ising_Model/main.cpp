@@ -1,5 +1,4 @@
 //  Created by Patrick Wilke on 27.05.19.
-//  Copyright © 2019 Patrick Wilke. All rights reserved.
 //
 
 #include "Time_Series.hpp"
